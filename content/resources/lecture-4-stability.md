@@ -9,7 +9,7 @@ optional_text: ''
 parent_title: Course Videos
 parent_type: SupplementalResourceSection
 related_resources_text: '![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Lecture
-  Notes (PDF)](resources/mitres_6-010s13_lec04)'
+  Notes (PDF)](/courses/res-6-010-electronic-feedback-systems-spring-2013/resources/mitres_6-010s13_lec04)'
 resource_index_text: ''
 resourcetype: Video
 title: 'Lecture 4: Stability'
