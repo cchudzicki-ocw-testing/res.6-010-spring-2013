@@ -1,5 +1,6 @@
 ---
 content_type: video_gallery
+description: The videos used for the Electronic Feedback Systems video course.
 is_media_gallery: true
 learning_resource_types: []
 ocw_type: SupplementalResourceSection
